@@ -28,4 +28,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://jivak07.github.io/sitemap.xml
+Sitemap: https://github.com/jivak07/Jivak-Thul/blob/main/sitemap
